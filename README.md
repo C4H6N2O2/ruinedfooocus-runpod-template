@@ -14,4 +14,4 @@ The container is built on **CUDA 12.4** and is compatible with both **NVIDIA RTX
 
 1. Clone or fork this repository:
    ```bash
-   git clone https://github.com/YOUR-USER/ruinedfooocus-runpod-template.git
+   git clone https://github.com/C4H6N2O2/ruinedfooocus-runpod-template.git
